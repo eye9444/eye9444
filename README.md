@@ -1,73 +1,101 @@
 <p align="center">
-  <img src="eyes.gif" alt="Animated eyes" width="720" />
+  <img src="eyes.gif" alt="A field of animated eyes" width="720" />
+</p>
+
+<h1 align="center"><code>eye@cachyos:~$ whoami</code></h1>
+
+<p align="center">
+  Developer in progress · language learner · Linux enthusiast
 </p>
 
 <p align="center">
-  <strong>Building things. Learning languages. Following interesting ideas wherever they lead.</strong>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-3%2B_years-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="CachyOS" src="https://img.shields.io/badge/CachyOS-current_distro-0B95D8?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-current_WM-58E1FF?style=for-the-badge&logo=wayland&logoColor=111111" />
 </p>
 
+```text
+OS       : CachyOS
+WM       : Hyprland
+Editor   : VSCodium
+Shell    : where ideas become commands
+Uptime   : 3+ years on Linux
+Mission  : learn deeply, build useful things, stay curious
+```
+
+## `$ cat about-me.txt`
+
+I am a developer and language learner who enjoys the overlap between software, stories, translation, and communication. I am still building my foundations, but I like taking small personal experiments far enough that they become tools I can genuinely use.
+
+Linux has been home for more than three years. I currently run **CachyOS with Hyprland**, and half the fun is shaping the system itself: tuning the workflow, understanding what happens under the hood, and occasionally breaking something just enough to learn how it works.
+
+> If the desktop can be configured, it will be configured.
+
+## `$ ls /usr/bin | grep learning`
+
 <p align="center">
-  <a href="https://github.com/eye9444/Dusk-Translate">DuskTranslate</a> ·
-  <a href="https://github.com/eye9444/WeeklyAssignments">Java practice</a> ·
-  <a href="https://github.com/eye9444?tab=repositories">all repositories</a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-learning_now-E76F00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-building_foundations-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-under_the_hood-A8B9CC?style=flat-square&logo=c&logoColor=111111" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-up_next-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-up_next-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 </p>
 
-## A Little About Me
+**Java** is my current main focus, somewhere between beginner and intermediate. I use it to strengthen object-oriented programming, problem solving, and the way I structure software.
 
-I am a developer and language learner building up my foundations across several programming languages. I like projects that connect software with stories, translation, and communication, especially when a small personal tool can grow into something genuinely useful.
+Alongside it, I am learning **C++** and **C** to get closer to the machine and understand what higher-level languages normally hide. **Rust** and **Kotlin** are waiting further down the path.
 
-## The Languages I Am Exploring
+```text
+Java     [██████░░░░] building confidence
+C++      [████░░░░░░] foundations loading
+C        [███░░░░░░░] peeking under the hood
+Rust     [█░░░░░░░░░] queued
+Kotlin   [█░░░░░░░░░] queued
+```
 
-**Java** is my current main focus, somewhere between beginner and intermediate. I am using it to strengthen object-oriented programming, problem solving, and general software structure.
+## `$ locale -a`
 
-I am also learning the foundations of **C++** and **C**, with an interest in understanding what is happening closer to the machine. **Rust** and **Kotlin** are next on my learning path.
+I am fluent to semi-fluent across five spoken languages:
+
+<h3 align="center">বাংলা · हिन्दी · English · 中文 · 日本語</h3>
+
+I am actively learning **Mandarin**. Moving between languages has made me care about context, precision, tone, and all the tiny choices that determine whether a translation merely works or actually feels natural.
+
+## `$ tree ~/projects -L 2`
+
+```text
+projects/
+├── DuskTranslate/
+│   ├── Japanese light-novel translation workspace
+│   ├── chapter navigation + glossary support
+│   └── EPUB/TXT workflows + AI providers
+└── WeeklyAssignments/
+    └── Java exercises, coursework, and problem solving
+```
+
+### [`DuskTranslate`](https://github.com/eye9444/Dusk-Translate)
+
+A self-contained browser workspace for translating Japanese light novels into readable English. It grew out of a personal need and turned into my favorite example of learning by building.
+
+[`explore source`](https://github.com/eye9444/Dusk-Translate) · [`download v0.1.0`](https://github.com/eye9444/Dusk-Translate/releases/tag/v0.1.0)
+
+### [`WeeklyAssignments`](https://github.com/eye9444/WeeklyAssignments)
+
+My Java practice and coursework archive, tracking the less glamorous but important part: showing up, solving problems, and getting a little better each week.
+
+## `$ printf '%s\n' "$CURRENT_DIRECTION"`
+
+Right now I am learning by making, exploring lower-level programming, studying Mandarin, and turning experiments into tools. I am especially drawn to localization, developer tooling, language learning, and the strange creative freedom of an endlessly configurable Linux setup.
+
+```bash
+while curious; do
+    learn
+    build
+    break_something
+    understand_it_better
+done
+```
 
 <p align="center">
-  <code>Java</code>&nbsp;&nbsp; <code>C++</code>&nbsp;&nbsp; <code>C</code>&nbsp;&nbsp; <code>Rust soon</code>&nbsp;&nbsp; <code>Kotlin soon</code>
-</p>
-
-## Languages I Speak
-
-I am fluent to semi-fluent in five spoken languages:
-
-<p align="center">
-  <strong>বাংলা</strong>&nbsp;&nbsp; <strong>हिन्दी</strong>&nbsp;&nbsp; <strong>English</strong>&nbsp;&nbsp; <strong>中文</strong>&nbsp;&nbsp; <strong>日本語</strong>
-</p>
-
-I am actively learning Mandarin as part of that journey. Moving between languages has shaped how I think about precision, context, and the small details that make communication feel natural.
-
-## Featured Work
-
-### [DuskTranslate](https://github.com/eye9444/Dusk-Translate)
-
-A self-contained browser workspace for translating Japanese light novels into readable English.
-
-`chapter workflow` · `glossary support` · `AI providers` · `EPUB/TXT` · `Eclipse theme`
-
-[Explore the project](https://github.com/eye9444/Dusk-Translate) · [Download v0.1.0](https://github.com/eye9444/Dusk-Translate/releases/tag/v0.1.0)
-
-### [WeeklyAssignments](https://github.com/eye9444/WeeklyAssignments)
-
-My collection of Java practice and coursework exercises as I work through the fundamentals and sharpen my problem-solving habits.
-
-## Linux Is Home
-
-I have been a Linux user for **3+ years**, and I genuinely love it. I currently use **CachyOS with Hyprland**, which has become my favorite environment for learning, tinkering, and building things.
-
-<p align="center">
-  <code>🐧 Linux</code>&nbsp;&nbsp; <code>⚡ CachyOS</code>&nbsp;&nbsp; <code>◈ Hyprland</code>&nbsp;&nbsp; <code>⌁ terminal enjoyer</code>
-</p>
-
-The freedom to shape my own workspace, understand what is happening under the hood, and keep experimenting is a huge part of why Linux feels like home to me.
-
-## Current Direction
-
-Right now I am learning by making: improving my Java fundamentals, exploring lower-level programming through C and C++, and turning experiments into tools I can actually use. Between programming, Mandarin, Japanese, and Linux, I am always chasing the next interesting thing to understand.
-
-<p align="center">
-  <strong>code</strong> ── <strong>languages</strong> ── <strong>Linux</strong> ── <strong>curiosity</strong>
-</p>
-
-<p align="center">
-  <i>Still learning. Still building. Still translating ideas into something useful.</i>
+  <sub>code // languages // Linux // curiosity</sub>
 </p>
