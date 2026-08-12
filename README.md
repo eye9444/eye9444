@@ -50,9 +50,23 @@ A self-contained browser workspace for translating Japanese light novels into re
 
 My collection of Java practice and coursework exercises as I work through the fundamentals and sharpen my problem-solving habits.
 
+## Linux Is Home
+
+I have been a Linux user for **3+ years**, and I genuinely love it. I currently use **CachyOS with Hyprland**, which has become my favorite environment for learning, tinkering, and building things.
+
+<p align="center">
+  <code>🐧 Linux</code>&nbsp;&nbsp; <code>⚡ CachyOS</code>&nbsp;&nbsp; <code>◈ Hyprland</code>&nbsp;&nbsp; <code>⌁ terminal enjoyer</code>
+</p>
+
+The freedom to shape my own workspace, understand what is happening under the hood, and keep experimenting is a huge part of why Linux feels like home to me.
+
 ## Current Direction
 
-Right now I am learning by making: improving my Java fundamentals, exploring lower-level programming through C and C++, and turning experiments into tools I can actually use. I am especially interested in localization, developer tools, language learning, and the space where creative work meets software.
+Right now I am learning by making: improving my Java fundamentals, exploring lower-level programming through C and C++, and turning experiments into tools I can actually use. Between programming, Mandarin, Japanese, and Linux, I am always chasing the next interesting thing to understand.
+
+<p align="center">
+  <strong>code</strong> ── <strong>languages</strong> ── <strong>Linux</strong> ── <strong>curiosity</strong>
+</p>
 
 <p align="center">
   <i>Still learning. Still building. Still translating ideas into something useful.</i>
