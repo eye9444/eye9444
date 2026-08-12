@@ -97,5 +97,5 @@ done
 ```
 
 <p align="center">
-  <sub>code // languages // Linux // curiosity</sub>
+  <sub>code // languages // Linux</sub>
 </p>
