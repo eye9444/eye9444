@@ -18,7 +18,7 @@
 OS       : CachyOS
 WM       : Hyprland
 Editor   : VSCodium
-Shell    : where ideas become commands
+Shell    : Caelestia
 Uptime   : 3+ years on Linux
 Mission  : learn deeply, build useful things, stay curious
 ```
