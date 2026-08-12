@@ -1,5 +1,3 @@
-# Eye
-
 <p align="center">
   <img src="eyes.gif" alt="Animated eyes" width="720" />
 </p>
