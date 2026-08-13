@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-3%2B_years-111111?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="CachyOS" src="https://img.shields.io/badge/CachyOS-current_distro-0B95D8?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-current_WM-58E1FF?style=for-the-badge&logo=wayland&logoColor=11111" />
+  <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-current_WM-58E1FF?style=for-the-badge&logo=wayland&logoColor=111111" />
 </p>
 
 ```text
@@ -36,7 +36,7 @@ Linux has been home for more than three years. I currently run **CachyOS with Hy
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-learning_now-E76F00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-building_foundations-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-under_the_hood-A8B9CC?style=flat-square&logo=c&logoColor=11111" />
+  <img alt="C" src="https://img.shields.io/badge/C-under_the_hood-A8B9CC?style=flat-square&logo=c&logoColor=111111" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-up_next-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-up_next-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 </p>
