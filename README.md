@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="eyes.gif" alt="A field of animated eyes" width="500" />
+  <img src="yhwach-banner.png" alt="Yhwach surrounded by the Almighty's eyes" width="900" />
 </p>
 
 <h1 align="center"><code>eye@cachyos:~$ whoami</code></h1>
