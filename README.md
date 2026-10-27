@@ -4,9 +4,7 @@
 
 <h1 align="center"><code>eye@cachyos:~$ whoami</code></h1>
 
-<p align="center">
-  Developer in progress · language learner · Linux enthusiast
-</p>
+<p align="center">Developer in progress · language learner · Linux enthusiast</p>
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-3%2B_years-111111?style=for-the-badge&logo=linux&logoColor=white" />
@@ -18,84 +16,71 @@
 OS       : CachyOS
 WM       : Hyprland
 Editor   : VSCodium
-Shell    : Caelestia
-Uptime   : 3+ years on Linux
 Mission  : learn deeply, build useful things, stay curious
 ```
 
 ## `$ cat about-me.txt`
 
-I am a developer and language learner who enjoys the overlap between software, stories, translation, and communication. I am still building my foundations, but I like taking small personal experiments far enough that they become tools I can genuinely use.
+I am a BTech CSE student building my foundations across software engineering and site reliability engineering. I enjoy understanding how systems work, then turning that understanding into useful tools.
 
-Linux has been home for more than three years. I currently run **CachyOS with Hyprland**, and half the fun is shaping the system itself: tuning the workflow, understanding what happens under the hood, and occasionally breaking something just enough to learn how it works.
+Linux has been home for more than three years. I currently use **CachyOS with Hyprland** and enjoy the practical side of computing: configuring systems, debugging them, and learning what happens underneath the interface.
 
-> If the desktop can be configured, it will be configured.
+## `$ ls /usr/bin | grep languages`
 
-## `$ ls /usr/bin | grep learning`
+I do not use proficiency scores. Every language has more depth than a badge can represent, so these are simply the areas I am working through:
 
-<p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-learning_now-E76F00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-building_foundations-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-under_the_hood-A8B9CC?style=flat-square&logo=c&logoColor=111111" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-up_next-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-up_next-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-</p>
+| Category | Languages |
+| --- | --- |
+| **Learning deeply** | Java · C · JavaScript |
+| **Working knowledge** | Python · HTML · CSS |
+| **Planned** | Rust · Kotlin |
 
-**Java** is my current main focus, somewhere between beginner and intermediate. I use it to strengthen object-oriented programming, problem solving, and the way I structure software.
+## `$ cat roadmap.md`
 
-Alongside it, I am learning **C++** and **C** to get closer to the machine and understand what higher-level languages normally hide. **Rust** and **Kotlin** are waiting further down the path.
+My current direction combines **SWE fundamentals** with **SRE practice**:
 
-```text
-Java     [██████░░░░] building confidence
-C++      [████░░░░░░] foundations loading
-C        [███░░░░░░░] peeking under the hood
-Rust     [█░░░░░░░░░] queued
-Kotlin   [█░░░░░░░░░] queued
-```
-
-## `$ locale -a`
-
-I am fluent to semi-fluent across five spoken languages:
-
-<h3 align="center">বাংলা · हिन्दी · English · 中文 · 日本語</h3>
-
-I am actively learning **Mandarin**. Moving between languages has made me care about context, precision, tone, and all the tiny choices that determine whether a translation merely works or actually feels natural.
+- Strengthen data structures and algorithms.
+- Complete a rapid Red Hat Linux System Administration course.
+- Learn Docker and Kubernetes through hands-on projects.
+- Work through an AWS Solutions Architect course.
+- Prepare for and apply to software engineering internships, including FAANG opportunities.
+- Keep learning by shipping and maintaining real projects.
 
 ## `$ tree ~/projects -L 2`
 
 ```text
 projects/
-├── DuskTranslate/
-│   ├── Japanese light-novel translation workspace
-│   ├── chapter navigation + glossary support
-│   └── EPUB/TXT workflows + AI providers
-└── WeeklyAssignments/
-    └── Java exercises, coursework, and problem solving
+├── DuskTranslate/   main focus — translation workspace and personal release
+└── Medusae/         secondary project — repository exploration assistant
 ```
 
 ### [`DuskTranslate`](https://github.com/eye9444/Dusk-Translate)
 
-A self-contained browser workspace for translating Japanese light novels into readable English. It grew out of a personal need and turned into my favorite example of learning by building.
+My main personal project: a browser workspace for translating Japanese light novels chapter by chapter, with editing, glossaries, project management, and EPUB/TXT workflows.
 
-[`explore source`](https://github.com/eye9444/Dusk-Translate) · [`download v0.1.0`](https://github.com/eye9444/Dusk-Translate/releases/tag/v0.1.0)
+[`open the app`](https://dusk-translate.vercel.app) · [`source code`](https://github.com/eye9444/Dusk-Translate)
 
-### [`WeeklyAssignments`](https://github.com/eye9444/WeeklyAssignments)
+### [`Medusae`](https://github.com/eye9444/Medusae)
 
-My Java practice and coursework archive, tracking the less glamorous but important part: showing up, solving problems, and getting a little better each week.
+My secondary project: a local terminal and visual workspace for exploring unfamiliar GitHub repositories, their source structure, and the relationships between components.
+
+## `$ locale -a`
+
+Spoken languages: **বাংলা · हिन्दी · English · 中文 · 日本語**
+
+I am continuing to learn Mandarin, with a focus on context, precision, and natural communication.
 
 ## `$ printf '%s\n' "$CURRENT_DIRECTION"`
 
-Right now I am learning by making, exploring lower-level programming, studying Mandarin, and turning experiments into tools. I am especially drawn to localization, developer tooling, language learning, and the strange creative freedom of an endlessly configurable Linux setup.
+Learn the fundamentals, build useful systems, and understand the machinery well enough to improve it.
 
 ```bash
 while curious; do
     learn
     build
-    break_something
+    operate
     understand_it_better
 done
 ```
 
-<p align="center">
-  <sub>code // languages // Linux</sub>
-</p>
+<p align="center"><sub>code // systems // Linux</sub></p>
