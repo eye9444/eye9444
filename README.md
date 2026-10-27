@@ -46,12 +46,6 @@ projects/
     └── knowledge graph and architecture map
 ```
 
-### [`DuskTranslate`](https://github.com/eye9444/Dusk-Translate) — main focus
-
-[`open the app`](https://dusk-translate.vercel.app) · [`source`](https://github.com/eye9444/Dusk-Translate)
-
-### [`Medusae`](https://github.com/eye9444/Medusae) — secondary project
-
 Spoken languages: **বাংলা · हिन्दी · English · 中文 · 日本語**
 
 ```bash
