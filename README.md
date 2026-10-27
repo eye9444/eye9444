@@ -18,6 +18,10 @@ I am a developer and language learner who likes the overlap between software, st
 
 Linux has been my daily driver for more than three years. I run **CachyOS with Hyprland** rn and have used Debian Bookworm and Debian Trixie in the past along with Kali Linux. I enjoy shaping the system itself, understanding what happens underneath, and occasionally breaking something just enough to learn how it works.
 
+## `$ cat roadmap.md`
+
+DSA, a rapid Red Hat Linux System Administration course, Docker, Kubernetes, AWS Solutions Architect, and preparation for software engineering internships, including FAANG opportunities.
+
 ## `$ ls /usr/bin | grep learning`
 
 | Learning deeply | Working knowledge | Planned |
@@ -25,10 +29,6 @@ Linux has been my daily driver for more than three years. I run **CachyOS with H
 | Java · C · JavaScript | Python · HTML · CSS | Rust · Kotlin |
 
 I do not use proficiency scores. Every language has more depth than a badge can represent, so this is simply what I am focusing on.
-
-## `$ cat roadmap.md`
-
-DSA, a rapid Red Hat Linux System Administration course, Docker, Kubernetes, AWS Solutions Architect, and preparation for software engineering internships, including FAANG opportunities.
 
 ## `$ tree ~/projects -L 2`
 
