@@ -28,8 +28,6 @@ DSA, a rapid Red Hat Linux System Administration course, Docker, Kubernetes, AWS
 | --- | --- | --- |
 | Java · C · JavaScript | Python · HTML · CSS | Rust · Kotlin |
 
-I do not use proficiency scores. Every language has more depth than a badge can represent, so this is simply what I am focusing on.
-
 ## `$ tree ~/projects -L 2`
 
 ```text
