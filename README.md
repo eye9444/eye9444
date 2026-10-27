@@ -27,8 +27,6 @@ Linux has been home for more than three years. I currently use **CachyOS with Hy
 
 ## `$ ls /usr/bin | grep languages`
 
-I do not use proficiency scores. Every language has more depth than a badge can represent, so these are simply the areas I am working through:
-
 | Category | Languages |
 | --- | --- |
 | **Learning deeply** | Java · C · JavaScript |
