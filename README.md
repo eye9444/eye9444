@@ -35,7 +35,7 @@ DSA, a rapid Red Hat Linux System Administration course, Docker, Kubernetes, AWS
 ```text
 projects/
 ├── DuskTranslate/
-│   ├── Japanese light-novel translation workspace
+│   ├── Light-novel translation workspace
 │   ├── chapter-by-chapter translation and editable output
 │   ├── glossary, project library, and built-in reader
 │   └── EPUB/TXT import and export with Google AI Studio/OpenRouter
