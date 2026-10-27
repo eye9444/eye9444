@@ -4,7 +4,7 @@
 
 <h1 align="center"><code>eye@cachyos:~$ whoami</code></h1>
 
-<p align="center">Developer in progress · language learner · Linux enthusiast</p>
+<p align="center">BTech CSE student · developer in progress · Linux enthusiast</p>
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-3%2B_years-111111?style=for-the-badge&logo=linux&logoColor=white" />
@@ -12,73 +12,36 @@
   <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-current_WM-58E1FF?style=for-the-badge&logo=wayland&logoColor=111111" />
 </p>
 
-```text
-OS       : CachyOS
-WM       : Hyprland
-Editor   : VSCodium
-Mission  : learn deeply, build useful things, stay curious
-```
+> Learning how software and systems work, then building useful things with them.
 
-## `$ cat about-me.txt`
+## Languages
 
-I am a BTech CSE student building my foundations across software engineering and site reliability engineering. I enjoy understanding how systems work, then turning that understanding into useful tools.
+| Learning deeply | Working knowledge | Planned |
+| --- | --- | --- |
+| Java · C · JavaScript | Python · HTML · CSS | Rust · Kotlin |
 
-Linux has been home for more than three years. I currently use **CachyOS with Hyprland** and enjoy the practical side of computing: configuring systems, debugging them, and learning what happens underneath the interface.
+No proficiency scores—just an honest snapshot of what I am focusing on.
 
-## `$ ls /usr/bin | grep languages`
+## SWE + SRE roadmap
 
-| Category | Languages |
-| --- | --- |
-| **Learning deeply** | Java · C · JavaScript |
-| **Working knowledge** | Python · HTML · CSS |
-| **Planned** | Rust · Kotlin |
+DSA · Red Hat Linux administration · Docker · Kubernetes · AWS Solutions Architect · internship preparation and applications.
 
-## `$ cat roadmap.md`
+## Projects
 
-My current direction combines **SWE fundamentals** with **SRE practice**:
+### [`DuskTranslate`](https://github.com/eye9444/Dusk-Translate) — main focus
 
-- Strengthen data structures and algorithms.
-- Complete a rapid Red Hat Linux System Administration course.
-- Learn Docker and Kubernetes through hands-on projects.
-- Work through an AWS Solutions Architect course.
-- Prepare for and apply to software engineering internships, including FAANG opportunities.
-- Keep learning by shipping and maintaining real projects.
+A browser workspace for translating Japanese light novels chapter by chapter, with editing, glossaries, project management, and EPUB/TXT workflows.
 
-## `$ tree ~/projects -L 2`
+[`open the app`](https://dusk-translate.vercel.app) · [`source`](https://github.com/eye9444/Dusk-Translate)
 
-```text
-projects/
-├── DuskTranslate/   main focus — translation workspace and personal release
-└── Medusae/         secondary project — repository exploration assistant
-```
+### [`Medusae`](https://github.com/eye9444/Medusae) — secondary project
 
-### [`DuskTranslate`](https://github.com/eye9444/Dusk-Translate)
-
-My main personal project: a browser workspace for translating Japanese light novels chapter by chapter, with editing, glossaries, project management, and EPUB/TXT workflows.
-
-[`open the app`](https://dusk-translate.vercel.app) · [`source code`](https://github.com/eye9444/Dusk-Translate)
-
-### [`Medusae`](https://github.com/eye9444/Medusae)
-
-My secondary project: a local terminal and visual workspace for exploring unfamiliar GitHub repositories, their source structure, and the relationships between components.
-
-## `$ locale -a`
+A local terminal and visual workspace for exploring unfamiliar GitHub repositories and understanding their structure.
 
 Spoken languages: **বাংলা · हिन्दी · English · 中文 · 日本語**
 
-I am continuing to learn Mandarin, with a focus on context, precision, and natural communication.
-
-## `$ printf '%s\n' "$CURRENT_DIRECTION"`
-
-Learn the fundamentals, build useful systems, and understand the machinery well enough to improve it.
-
 ```bash
-while curious; do
-    learn
-    build
-    operate
-    understand_it_better
-done
+while curious; do learn; build; operate; understand_it_better; done
 ```
 
 <p align="center"><sub>code // systems // Linux</sub></p>
