@@ -34,13 +34,17 @@ DSA, a rapid Red Hat Linux System Administration course, Docker, Kubernetes, AWS
 
 ### [`DuskTranslate`](https://github.com/eye9444/Dusk-Translate) — main focus
 
-A browser workspace for translating Japanese light novels chapter by chapter. It has editing, glossaries, project management, and EPUB/TXT workflows.
+```text
+source EPUB/TXT → chapter workspace → translate → edit + glossary → export EPUB/TXT
+```
 
 [`open the app`](https://dusk-translate.vercel.app) · [`source`](https://github.com/eye9444/Dusk-Translate)
 
 ### [`Medusae`](https://github.com/eye9444/Medusae) — secondary project
 
-A local terminal and visual workspace for exploring unfamiliar GitHub repositories and understanding their source structure.
+```text
+repository → snapshot → index → ask questions → inspect source → map relationships
+```
 
 Spoken languages: **বাংলা · हिन्दी · English · 中文 · 日本語**
 
