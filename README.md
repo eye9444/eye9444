@@ -16,7 +16,7 @@
 
 I am a developer and language learner who likes the overlap between software, stories, translation, and communication. I am still building my foundations, but I like taking personal experiments far enough that they become tools I can genuinely use.
 
-Linux has been home for more than three years. I run **CachyOS with Hyprland** rn and have used Debian Bookworm and Debian Trixie in the past along with Kali Linux. I enjoy shaping the system itself, understanding what happens underneath, and occasionally breaking something just enough to learn how it works.
+Linux has been my daily driver for more than three years. I run **CachyOS with Hyprland** rn and have used Debian Bookworm and Debian Trixie in the past along with Kali Linux. I enjoy shaping the system itself, understanding what happens underneath, and occasionally breaking something just enough to learn how it works.
 
 ## Languages
 
