@@ -14,9 +14,7 @@
 
 ## `$ cat about-me.txt`
 
-I am a developer and language learner who likes the overlap between software, stories, translation, and communication. I am still building my foundations, but I like taking personal experiments far enough that they become tools I can genuinely use.
-
-Linux has been my daily driver for more than three years. I run **CachyOS with Hyprland** rn and have used Debian Bookworm and Debian Trixie in the past along with Kali Linux. I enjoy shaping the system itself, understanding what happens underneath, and occasionally breaking something just enough to learn how it works.
+I am a developer and learning random things I find cool is my hobby. I am still building my foundations, but I like taking personal experiments far enough that they become tools I can genuinely use. Linux has been my daily driver for more than three years. I run **CachyOS with Hyprland** rn and have used Debian Bookworm and Debian Trixie in the past along with Kali Linux. I enjoy occasionally breaking something just enough to learn how it works.
 
 ## `$ cat roadmap.md`
 
